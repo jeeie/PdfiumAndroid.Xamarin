@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <!--*-->
-    <id>pdfiumandroid.xamarin</id>
+    <id>PdfiumAndroid.Xamarin</id>
     <!--*-->
     <version>1.9.0</version>
     <title>PdfiumAndroid.Xamarin</title>
