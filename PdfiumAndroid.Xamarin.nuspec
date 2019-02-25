@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>pdfiumandroid.xamarin</id>
+    <!--*-->
+    <version>1.9.0</version>
+    <title>PdfiumAndroid.Xamarin</title>
+    <!--*-->
+    <authors>Jiang Ying</authors>
+    <owners>Jiang Ying</owners>
+
+    <license type="expression">Apache-2.0</license>
+    <projectUrl>https://github.com/jeeie/PdfiumAndroid.Xamarin</projectUrl>
+<!--
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Xamarin binding for PdfiumAndroid</description>
+    <!--*-->
+    <releaseNotes> </releaseNotes>
+    <copyright>Copyright Jiang Ying © 2019</copyright>
+    <tags> </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+
+  <files>
+    <file src="PdfiumAndroid.Xamarin\bin\Release\*.dll" target="lib\MonoAndroid81" />
+  </files>
+  
+</package>
